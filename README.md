@@ -16,7 +16,6 @@
   - `github.com/golang-jwt/jwt/v5` - для работы с JWT токенами
   - `golang.org/x/crypto` - для криптографических операций
   - `github.com/jackc/pgx/v5` - для работы с PostgreSQL
-  - `github.com/golang-migrate/migrate/v4` - для миграций базы данных
 
 ## Структура проекта
 
